@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+
+this address has one
+0x0A69d334038863Cd4EF9f2c07a22396883fB6AC3
